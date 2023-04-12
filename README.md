@@ -7,7 +7,7 @@
 - HTML5
 - CSS3
 - JavaScript
-- Visual Studio Code (editor de texto)
+- Visual Studio Code 
 
 Deixo aqui meu agradecimento a [Digital Innovation One](https://digitalinnovation.one/ "Digital Innovation One") por mais um ótimo projeto.
 
